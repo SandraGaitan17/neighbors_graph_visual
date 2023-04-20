@@ -1,4 +1,4 @@
-# neighbors_graph_visual
+# 
      Description: The script generates 12O nodes in a visual graph. It paints the 
      nodes that have at least one neighbor with black color.
      
